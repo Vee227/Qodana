@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1714086411 source:c:\users\wikto\semester2\algos\algosubung2\baumalgos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1714334340 source:c:\users\grani\desktop\fh technikum\semester2\algos\baumalgos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1714338749 source:c:\users\grani\desktop\fh technikum\semester2\algos\2.programmierbeispiel_friedl_granig_niziolek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
